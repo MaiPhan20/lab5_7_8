@@ -1,0 +1,12 @@
+@keyframes myfirst {
+    from{background:red;}
+    to{background:yellow;}
+}
+@-moz-keyframes myfirst {
+    from {background: red;}
+    to {background: yellow;}
+}
+@-webkit-keyframes myfirst {
+    from{background: red;}
+    to {background: yellow}
+}

@@ -1,0 +1,14 @@
+#DSgame ul{
+    background: white;
+    max-width: 100%;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    border: 4px double #000000;
+
+}
+#DSgame ul li figcaption{
+    text-align: center;
+}
+
+

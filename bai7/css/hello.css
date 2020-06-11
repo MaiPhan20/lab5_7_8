@@ -1,0 +1,9 @@
+div{
+    transition: width;
+    -moz-animation: width 3s;
+    -webkit-animation: width 3s;
+    -o-transition: width 3s;
+}
+div:hover{
+    width: 200px;
+}
